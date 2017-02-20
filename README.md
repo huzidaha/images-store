@@ -1,0 +1,2 @@
+# images-store
+static files
